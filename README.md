@@ -10,17 +10,14 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align = "center" alt = "May-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-          
-          
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align = "center" alt = "java-plain-wordmark" height="30" width="40" src="https://github.com/maybdias/maybdias/assets/141751911/12733c9a-f15a-40cc-9572-5b2d85890aec">
+  <img align="center" alt="c-original" height="30" width="40" src="https://github.com/maybdias/maybdias/assets/141751911/6e677b41-e99e-456d-a2af-05c0738fc1d8">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt= "May-Gif" height="190" width="190"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR4N240NXlwbDh4emVsMzVqZ2R6eXN0NTQ4anB3ejNzeGMxbWdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUBeZkvwCYzLJA5pL5/giphy.gif">
 </div>
-    
-##
+  
  
 <div> 
 
