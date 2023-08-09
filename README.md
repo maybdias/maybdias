@@ -1,18 +1,4 @@
-const text = document .querySelector ("
-•sec-text");
-const textLoad = ( ) => {
-setTimeout ( ( ) => {
-text. textContent = "Developer"
-], 0);
-setTimeout ( () => {
-text. textContent = "Freelancer";
-J, 4000);
-setTimeout ( ( ) => {
-text.textContent = "Designer"
-}, 8000);
-}
-textLoad ();
-setInterval (textLoad, 12000);
+## Olá, seja bem vindo(a)!!
 
 - 💐 Oi, Eu sou a @maybdias! 
 - 👩‍💻 Tenho 18 anos e atualmente estou no 2º semestre de Ciência da computação...
