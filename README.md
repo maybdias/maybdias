@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt= "![gif1](https://github.com/maybdias/maybdias/assets/141751911/55459436-2025-48e1-8a51-abb2606536e7)">
+  <img align="right" alt= "https://discord.com/channels/@me/1099106090563670088/1138927921159999589">
 </div>
  ##
  
