@@ -9,7 +9,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?maybdias&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?maybdias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align = "center" alt = "java-plain-wordmark" height="30" width="40" src="https://github.com/maybdias/maybdias/assets/141751911/12733c9a-f15a-40cc-9572-5b2d85890aec">
