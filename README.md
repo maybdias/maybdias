@@ -1,4 +1,5 @@
-## Olá, seja bem vindo(a)!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mayssa+Dias;I'm+18+years+old;I'm+from+Brasil,+DF;Hope+you+enjoy!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 - 💐 Oi, Eu sou a @maybdias! 
 - 👩‍💻 Tenho 18 anos e atualmente estou no 2º semestre de Ciência da computação...
@@ -27,7 +28,6 @@
   <a href = "mailto:mayssabdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayssa-barbosa-dias-b52485287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![snake gif](https://github.com/maybdias/maybdias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
