@@ -7,7 +7,7 @@
 - 👩‍💻 Tenho 19 anos e atualmente estou no 5º semestre de Ciência da computação...
 - 👾 Estou aprofundando os meus conhecimentos em Java, JavaScript, Html/Css/Fxml, Python...
 - 💕 Pronouns: ela/dela
-- 💻 Atualmente sou estágiaria de Desenvolvimento de Softaware no STF.
+- 💻 Atualmente sou estágiaria de Desenvolvimento de Software no STF.
 <div>
   <a href="https://github.com/maybdias">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybdias&layout=compact&langs_count=7&theme=dracula"/>
